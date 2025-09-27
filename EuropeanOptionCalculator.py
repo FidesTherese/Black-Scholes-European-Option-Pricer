@@ -135,7 +135,7 @@ v = float(v)
 
 # Define N' function
 def Nprime(x):
-    Nprime = 1/(math.sqrt(2*math.pi))*math.exp(0.5*(x**2))
+    Nprime = 1/(math.sqrt(2*math.pi))*math.exp(-0.5*(x**2))
     return Nprime
 
 # Calculate
