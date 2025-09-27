@@ -1,4 +1,4 @@
-# Description of Program
+# Description of Programme
 # Purpose
 This programme is to calculate the theoretical price and Greeks using Black-Scholes formulae for European options. Call, put, binary call as well as binary put is included.
 
